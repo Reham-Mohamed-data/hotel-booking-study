@@ -1,2 +1,3 @@
 # hotel-booking-study
-Hotel booking demand datasets 
+Hotel booking demand datasets
+
