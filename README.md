@@ -19,9 +19,9 @@ Provide a comprehensive overview of hotel booking performance, identify key fact
 
 ## 📂 Dataset Information
 
-## File Name: hotel_booking.csv
-## Total Records: 119390 rows, 36 columns
-## Columns: 
+### File Name: hotel_booking.csv
+### Total Records: 119390 rows, 36 columns
+### Columns: 
 ### 1.	hotel: 
 Indicates the type of hotel (e.g., "Resort Hotel" or "City Hotel").
 ### 2.	is_canceled: 
