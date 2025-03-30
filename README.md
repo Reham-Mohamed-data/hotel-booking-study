@@ -97,11 +97,11 @@ The last four digits of the guest's credit card (for privacy reasons, the full n
 
 ## 🛠️ Tools & Technologies Used
 
-## Power BI: Interactive visualizations and data modeling.
+### Power BI: Interactive visualizations and data modeling.
 
-## DAX (Data Analysis Expressions): Custom calculations and KPIs.
+### DAX (Data Analysis Expressions): Custom calculations and KPIs.
 
-## Power Query: Data transformation and cleaning.
+### Power Query: Data transformation and cleaning.
 
 ## 🚀 How to Use
 Open the Power BI report (.pbix file).
